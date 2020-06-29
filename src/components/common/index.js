@@ -1,5 +1,5 @@
 import MasonryPost from "./masonry-post";
 import PostMasonry from "./post-masonry";
 import PostGrid from "./post-grid";
-
-export { MasonryPost, PostMasonry, PostGrid };
+import TagRow from "./tag-row";
+export { MasonryPost, PostMasonry, PostGrid, TagRow };

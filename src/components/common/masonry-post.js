@@ -1,5 +1,5 @@
 import React from "react";
-import TagRow from "./tag-categories";
+import { TagRow } from "./";
 
 import useWindowSize from "./windowSize";
 export default function MasonryPost({ post, tagsOnTop }) {
